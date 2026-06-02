@@ -1,0 +1,14 @@
+{
+  "name": "小笨手-键鼠模拟应用",
+  "short_name": "小笨手",
+  "icons": [
+    {
+      "src": "/favicon/128x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#fff",
+  "background_color": "#fff",
+  "display": "standalone"
+}

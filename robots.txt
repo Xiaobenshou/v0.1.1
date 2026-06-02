@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xiaobenshou.github.io/v0.1.1//sitemap.xml

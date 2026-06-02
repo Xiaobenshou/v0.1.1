@@ -1,0 +1,14 @@
+{
+    "version": 2,
+    "splashscreen": {
+        "weight": 1280,
+        "height": 768,
+        "messages": [
+            {
+                "level": "warning",
+                "content": "当前版本只维护到2026/05/05"
+            }
+        ],
+        "pages": []
+    }
+}
